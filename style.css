@@ -618,9 +618,17 @@ footer .copyright {
   margin-right: 10px;
 }
 
+#prodetails .single-pro-details input:focus {
+  outline: none;
+}
+
 #prodetails .single-pro-details button {
   background-color: #088178;
   color: #fff;
+}
+
+#prodetails .single-pro-details span {
+  line-height: 25px;
 }
 
 /* media  query */
