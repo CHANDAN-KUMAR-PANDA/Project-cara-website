@@ -631,6 +631,32 @@ footer .copyright {
   line-height: 25px;
 }
 
+
+/* Blog page start */
+#page-header.blog-header{
+  background-image: url("./photos/banner/b19.jpg");
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* media  query */
 @media (max-width: 799px) {
   .section-p1 {
