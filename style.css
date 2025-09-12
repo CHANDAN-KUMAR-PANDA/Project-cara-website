@@ -645,6 +645,7 @@ footer .copyright {
   align-items: center;
   width: 100%;
   position: relative;
+  padding-bottom: 90px;
 }
 
 #blog .blog-img {
@@ -698,29 +699,6 @@ footer .copyright {
   color: #c9cbce;
   z-index: -9;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* media  query */
 @media (max-width: 799px) {
