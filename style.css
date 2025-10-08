@@ -700,6 +700,11 @@ footer .copyright {
   z-index: -9;
 }
 
+/* About section start*/
+#page-header.about-header{
+  background-image: url("./photos/about/banner.png");
+}
+
 /* media  query */
 @media (max-width: 799px) {
   .section-p1 {
